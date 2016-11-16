@@ -1,0 +1,20 @@
+title{
+	font-size:152px;
+	color:#2F78EF
+}
+
+h1{
+
+}
+
+p{
+	text-align: center;
+}
+
+li{
+	color:red;
+}
+
+body{
+	color:orange;
+}
