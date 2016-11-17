@@ -1,14 +1,14 @@
-title{
-	font-size:152px;
-	color:#2F78EF
-}
 
 h1{
-
+	font-size: 152px;
+	color:#2F78EF;
 }
 
 p{
 	text-align: center;
+	float:right;
+	padding-left:643px;
+	padding-bottom:800px;
 }
 
 li{
@@ -17,4 +17,6 @@ li{
 
 body{
 	background-color:orange;
+	font-family: "Comic Sans MS";
+	color: #939b01;
 }
