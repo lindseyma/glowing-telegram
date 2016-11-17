@@ -1,0 +1,20 @@
+body{
+	background-color:red;
+	color:blue;
+}
+
+h1{
+	text-align:center;
+}
+
+p{
+	padding-right:70px;
+}
+
+li{
+	font-size:13em;
+}
+
+ul{
+	text-align:right;
+}
