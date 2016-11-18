@@ -24,3 +24,12 @@ body{
 	font-family: "Comic Sans MS";
 	color: #939b01;
 }
+
+.navzone{
+	border: 200px black;
+	background-color:yellow;
+}
+
+.content{
+	font-size:60px;
+}

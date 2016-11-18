@@ -18,11 +18,3 @@ li{
 ul{
 	text-align:right;
 }
-
-.extreme{
-	text-align:center;
-}
-
-.content{
-	background-color:purple;
-}
