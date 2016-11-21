@@ -1,0 +1,43 @@
+body{
+	background-image: url("https://media.giphy.com/media/SBi6eBtWMUvnO/giphy.gif");
+}
+
+a:hover{
+	color:transparent;
+}
+h1{
+	text-align: center;
+	font-size:100px;
+	color:red;
+}
+
+h1:hover{
+	color:blue;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	display:inline;
+	margin:20px;
+	float:right;
+}
+
+li:hover{
+	color:transparent;
+}
+
+p{
+	letter-spacing: 5px;
+	line-height: 40px;
+}
+
+#p1{
+	color:blue;
+}
+
+#p2{
+	color:red;
+}
